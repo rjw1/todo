@@ -2,7 +2,8 @@
 #script to generate a daily todo file.
 #adds things from previous file that werent done.
 DATE=`date +%Y-%m-%d`
-FILE=${DATE}.md
+DEFAULTFILE="${DATE}.md"
+FILE=${1:-$DEFAULTFILE}
 
 if [ -e $FILE ]
 then
