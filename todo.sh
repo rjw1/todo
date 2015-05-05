@@ -12,7 +12,7 @@ then
 else
   echo "#### $DATE ####" > $FILE
   echo "" >> $FILE
-  cat `ls -tr *md | grep -v "$DATE" |tail -1 `| grep "^-" | grep -v "~~" >> $FILE
+  cat `ls -1 ????-??-??.md | grep -v "$DATE" |tail -1 `| grep "^-" | grep -v "~~" >> $FILE
   git add $FILE
   vi $FILE
 fi
