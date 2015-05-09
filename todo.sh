@@ -14,5 +14,6 @@ else
   echo "" >> $FILE
   cat `ls -1 ????-??-??.md | grep -v "$DATE" |tail -1 `| grep "^-" | grep -v "~~" >> $FILE
   git add $FILE
+  git commit $FILE -m "todo for $DATE"
   vi $FILE
 fi
