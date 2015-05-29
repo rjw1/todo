@@ -12,6 +12,7 @@ then
 else
   echo "#### $DATE ####" > $FILE
   echo "" >> $FILE
+  cat future/$DEFAULTFILE | grep "^-" | grep -v "~~" >> $FILE
   cat `ls -1 ????-??-??.md | grep -v "$DATE" |tail -1 `| grep "^-" | grep -v "~~" >> $FILE
   git add $FILE
   git commit $FILE -m "todo for $DATE"
