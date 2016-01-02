@@ -21,3 +21,6 @@
 - reaffix back garden wall tops
 - make toilet cistern cover fit properly
 - get rid of weeds in paving cracks (front and back)
+- fix banisters
+- box off top banister and fit child-proof stairgate
+- fit child-safe side rails to spare bed
