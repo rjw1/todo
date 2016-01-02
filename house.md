@@ -20,4 +20,7 @@
 - cut back bushes in back garden
 - reaffix back garden wall tops
 - make toilet cistern cover fit properly
+- fix banisters
+- box off top banister and fit child-proof stairgate
+- fit child-safe side rails to spare bed
 
