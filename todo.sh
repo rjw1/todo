@@ -10,10 +10,9 @@ then
   echo "file already exists"
   vi $FILE
 else
-  echo "#### $DATE ####" > $FILE
-  echo "" >> $FILE
   cat future/$DEFAULTFILE | grep "^-" | grep -v "~~" >> $FILE
-  cat `ls -1 ????-??-??.md | grep -v "$DATE" |tail -1 `| grep "^-" | grep -v "~~" >> $FILE
+  cat `ls -1 ????-??-??.md | grep -v "$DATE" |tail -1 ` | grep -v "~~"  >> $FILE
+  sed -i "1s/^.*$/#### $DATE ####/" $FILE
   git add $FILE
   git commit $FILE -m "todo for $DATE"
   vi $FILE
