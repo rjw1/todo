@@ -1,10 +1,8 @@
 ### house todo list ###
 
-- upstairs toilet
-- shed roof
-- shed door
+- finish upstairs toilet
 - take down living room partition
-- fix guttering out front
+- fix guttering out front and back and side
 - install extractor fan over hob
 - redo kitchen sink sealant
 - redo bathroom sealant
@@ -13,14 +11,18 @@
 - paint front wall top
 - paint lion
 - pressure wash stuff
-- fix fencing
+- fix fencing at back (optional)
 - fix decking
-- replace wood chip out front
+- dig up concrete at front and put down soil
 - hang west croydon painting
 - cut back bushes in back garden
 - reaffix back garden wall tops
-- make toilet cistern cover fit properly
-- get rid of weeds in paving cracks (front and back)
-- fix banisters
-- box off top banister and fit child-proof stairgate
-- fit child-safe side rails to spare bed
+- think about bathroom wood
+- bed in the crazy paving properly (front repairs, back needs doing entirely)
+- bay window roof tiles
+- ramp up from pavement to front door
+- deal with porch step
+- remove fence from side path side of front garden
+- deal with guttering going to drain on side path
+- deal with side path drainage
+- remove breezeblock and trellis
