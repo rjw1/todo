@@ -27,3 +27,6 @@
 - remove other extra fencing
 - look at living room external wall.
 - boiler service and power flush
+- add storage above built in wardrobes in bob's room
+- custom shelves in living room.
+- remove electric fire from living room and make fireplace good.
