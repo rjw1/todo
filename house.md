@@ -31,3 +31,4 @@
 - custom shelves in living room.
 - remove electric fire from living room and make fireplace good.
 - replace shower holder in bathroom
+- look at electrics. At least one or two sockets are duff.
