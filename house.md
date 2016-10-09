@@ -14,7 +14,6 @@
 - fix decking
 - dig up concrete at front and put down soil
 - hang west croydon painting
-- cut back bushes in back garden
 - reaffix back garden wall tops
 - remove wood panels in bathroom and retile
 - bed in the crazy paving properly (front repairs, back needs doing entirely)
