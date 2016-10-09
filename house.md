@@ -1,6 +1,6 @@
 ### house todo list ###
 
-- finish upstairs toilet
+- finish upstairs toilet (plumb in and paint)
 - take down living room partition
 - fix guttering out front and back and side
 - install extractor fan over hob
@@ -10,13 +10,13 @@
 - paint front wall top
 - paint lion
 - pressure wash stuff
-- fix fencing at back (optional)
+- fix fencing at back
 - fix decking
 - dig up concrete at front and put down soil
 - hang west croydon painting
 - cut back bushes in back garden
 - reaffix back garden wall tops
-- think about bathroom wood
+- remove wood panels in bathroom and retile
 - bed in the crazy paving properly (front repairs, back needs doing entirely)
 - bay window roof tiles
 - ramp up from pavement to front door
