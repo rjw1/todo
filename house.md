@@ -7,7 +7,6 @@
 - redo kitchen sink sealant
 - redo bathroom sealant
 - deal with damp
-- deal with gate out front
 - paint front wall top
 - paint lion
 - pressure wash stuff
