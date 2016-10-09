@@ -24,3 +24,6 @@
 - deal with guttering going to drain on side path
 - deal with side path drainage
 - remove breezeblock and trellis
+- remove other extra fencing
+- look at living room external wall.
+- boiler service and power flush
