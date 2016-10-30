@@ -32,3 +32,4 @@
 - remove electric fire from living room and make fireplace good.
 - replace shower holder in bathroom
 - look at electrics. At least one or two sockets are duff.
+- install reading light in Kake's room
